@@ -3,7 +3,7 @@ Cell-type-Classification
 ### Title
 *Deep learning cell type classification using nuclear DNA patterns*
 
-[Read Link]() 
+[Read Link](https://doi.org/10.64898/2026.04.28.721280) 
 
 <!--todo : summary-->
 
