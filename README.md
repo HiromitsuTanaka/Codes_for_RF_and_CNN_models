@@ -1,4 +1,4 @@
-Cell-type-Classification
+Cell_type_Classification
 ===========
 ### Title
 *Deep learning cell type classification using nuclear DNA patterns*
@@ -12,18 +12,18 @@ Cell-type-Classification
 ### Environment
 1. Clone the repository
    ```cmd
-   git clone https://github.com/HiromitsuTanaka/Codes_for_RF_and_CNN_models.git
+   git clone https://github.com/HiromitsuTanaka/Codes_for_cell_type_classification.git
    ```
 - model
   - python 3.10.11
   - NVIDIA RTX A6000
 
-  The library names and versions are shown in [requirements.txt](https://github.com/HiromitsuTanaka/Codes_for_RF_and_CNN_models/blob/main/requirements.txt)
+  The library names and versions are shown in [requirements.txt](https://github.com/HiromitsuTanaka/Codes_for_cell_type_classification/blob/main/requirements.txt)
   
   Operations are run in Jupyter environment
   
   ```cmd
-   cd Codes_for_RF_and_CNN_models
+   cd Codes_for_cell_type_classification
    ```
    ```cmd
    python -m venv env
